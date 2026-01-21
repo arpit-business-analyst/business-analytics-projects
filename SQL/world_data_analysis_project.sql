@@ -42,3 +42,9 @@ ORDER BY population DESC;
 
 -- BUSINESS QUESTION 5:
 -- List continents having more than 10 countries
+-- ANSWER
+SELECT continent, COUNT(name) AS country_count
+FROM world
+GROUP BY continent
+HAVING COUNT(name) > 10
+ORDER BY country_count DESC;
