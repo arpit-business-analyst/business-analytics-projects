@@ -23,9 +23,22 @@ ORDER BY Total_Population DDESC;
 
 -- BUSINESS QUESTION 3:
 -- Identify the top 5 most populated countries
+-- ANSWER
+SELECT name, population
+FROM world
+ORDER BY population DESC
+LIMIT 5;
 
 -- BUSINESS QUESTION 4:
 -- Find countries whose population is above the world average
+--ANSWER
+SELECT name, population
+FROM world
+WHERE population > (
+          SELECT AVG(population)
+          FROM world
+)
+ORDER BY population DESC;
 
 -- BUSINESS QUESTION 5:
 -- List continents having more than 10 countries
