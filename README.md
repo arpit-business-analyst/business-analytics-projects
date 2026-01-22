@@ -41,6 +41,8 @@ Interactive dashboards created using Power BI, built on cleaned and analyzed dat
 
 Planned dashboards:
 - Sales performance overview
-- Sales by region and category
-- KPI tracking (Total Sales, Profit, Quantity)
-- Trend analysis with filters (region, category)
+- Sales by region, orderdate, country and category
+- Profit analysis by category and orderdate
+- Quantity analysis by category
+- KPI tracking (Total Sales, Profit, Quantity and Profit Margin %)
+- Trend analysis with filters (region, category, orderdate)
