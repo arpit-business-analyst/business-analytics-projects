@@ -6,7 +6,7 @@ These projects demonstrate practical skills in data analysis, KPI identification
 
 ## Power BI — Sales Analytics Dashboard
 
-Tool: Power BI
+Tool: Power BI,
 File: Power-BI/superstore_dashboard&sales_forecasting.pbix
 
 ## Overview
@@ -22,7 +22,7 @@ Use Case: Sales monitoring, performance analysis, and management reporting.
 
 ## Tableau — Customer Sales Dashboard
 
-Tool: Tableau
+Tool: Tableau,
 File: Tableau/sales_customer_dashboard.twbx
 
 ## Overview
