@@ -4,8 +4,6 @@ This folder contains interactive business intelligence dashboards developed usin
 
 These projects demonstrate practical skills in data analysis, KPI identification, and dashboard storytelling.
 
-------------------------------------------------------------------------------------------------------------------
-
 ## Power BI — Sales Analytics Dashboard
 
 Tool: Power BI
@@ -20,9 +18,7 @@ This dashboard provides a high-level view of overall sales performance across mu
 2. Sales trends across different time periods
 3. Comparison of sales by product category and region
 
-## Use Case: Sales monitoring, performance analysis, and management reporting.
-
-------------------------------------------------------------------------------------------------------------------
+Use Case: Sales monitoring, performance analysis, and management reporting.
 
 ## Tableau — Customer Sales Dashboard
 
@@ -38,9 +34,7 @@ This dashboard focuses on customer-level analysis to understand revenue contribu
 2. Identification of top revenue-generating customers
 3. Analysis of customer contribution to total sales
 
-## Use Case: Customer analytics, segmentation, and retention planning.
-
-------------------------------------------------------------------------------------------------------------------
+Use Case: Customer analytics, segmentation, and retention planning.
 
 ## Tools & Skills Demonstrated
 
