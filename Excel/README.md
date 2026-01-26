@@ -1,26 +1,38 @@
-## Excel Sales Analysis Workbook
+## Excel
 
-This folder contains Excel-based analysis created using raw sales data.
+This folder contains Excel and CSV files used as data sources for analysis and dashboard creation.  
+The same datasets are also present in the `Datasets` folder and are stored here separately for Excel-based exploration and preprocessing.
 
-### File included
-- sales_analysis_workbook.xlsx
+These files can be used for initial data understanding, validation, and basic analysis before visualization.
 
-### Key analysis performed
-- Sales analysis by region using pivot tables
-- Sales analysis by product category using pivot tables
-- KPI summary including:
-  - Total Sales
-  - Total Profit
-  - Total Quantity sold
-- Basic charts to support data understanding
+## Power BI Data Files  
+**Folder:** `Power-BI/`
 
-### Purpose
-- Validate and understand sales performance
-- Cross-check KPIs before dashboard creation
-- Prepare business logic for Power BI dashboards
+- `SuperStore Sales DataSet.xlsx`  
+- `SuperStore_Sales_Dataset.csv`  
 
-### Tools & features used
-- Pivot Tables
-- Excel formulas (SUM)
-- Basic charts
-- Data organization best practices
+### Usage
+These files are used to:
+- Explore sales data in tabular format  
+- Perform basic filtering and aggregation  
+- Serve as direct data sources for Power BI dashboards  
+
+## Tableau Data Files  
+**Folder:** `Tableau/`
+
+- `Customers.csv`  
+- `Orders.csv`  
+- `Products.csv`  
+- `Location.csv`  
+
+### Usage
+These files support:
+- Understanding relationships between entities  
+- Verifying joins before Tableau modeling  
+- Customer and product-level analysis in Excel  
+
+## Skills Demonstrated
+- Data Understanding  
+- Dataset Structuring  
+- Excel-based Analysis  
+- BI Tool Data Preparation  
