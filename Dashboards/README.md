@@ -1,38 +1,50 @@
-## Sales Analytics Dashboard (Power BI)
+## Dashboards
+
+This folder contains interactive business intelligence dashboards developed using Power BI and Tableau. Each dashboard focuses on analyzing sales performance and customer behavior, with the goal of extracting actionable business insights and presenting them in a clear, visual format.
+
+These projects demonstrate practical skills in data analysis, KPI identification, and dashboard storytelling.
+
+------------------------------------------------------------------------------------------------------------------
+
+## Power BI — Sales Analytics Dashboard
+
+Tool: Power BI
+File: Power-BI/superstore_dashboard&sales_forecasting.pbix
 
 ## Overview
-This dashboard provides an interactive analysis of sales performance using Power BI.
-It is built using cleaned and summarized sales data prepared in Excel and focuses on key business KPIs and trends.
 
-## Files Included
--- sales_analytics_dashboard.pbix
-Power BI dashboard file with interactive visuals and filters
+This dashboard provides a high-level view of overall sales performance across multiple dimensions such as time, product categories, and regions. It is designed to help stakeholders quickly monitor business health and identify trends.
 
--- sales_analytics_dashboard.png
-Screenshot preview of the final dashboard for quick viewing on GitHub
+## Key Insights: 
+1. Overall sales and order performance
+2. Sales trends across different time periods
+3. Comparison of sales by product category and region
 
-## Key KPIs
-1. Total Sales
-2. Total Profit
-3. Profit Margin (%)
-4. Total Quantity Sold
+## Use Case: Sales monitoring, performance analysis, and management reporting.
 
-## Visuals & Insights
-1. Sales by Region (Bar Chart)
-2. Sales by Category (Donut Chart)
-3. Sales by Country (Donut Chart)
-4. Sales Trend by Order Date (Line Chart)
-5. Profit Trend by Order Date (Line Chart)
-6. Profit by Category (Bar Chart)
-7. Quantity Sold by Category (Bar Chart)
+------------------------------------------------------------------------------------------------------------------
 
-## Interactive Filters
-1. Category (Furniture, Technology)
-2. Region (Asia, Europe, USA)
-3. Order Date (Date range slicer)
+## Tableau — Customer Sales Dashboard
 
-These filters allow dynamic exploration of sales performance across different dimensions.
+Tool: Tableau
+File: Tableau/sales_customer_dashboard.twbx
 
-## Tools Used
-1. Power BI Desktop
-2. Excel (data preparation & KPI calculation)
+## Overview
+
+This dashboard focuses on customer-level analysis to understand revenue contribution and purchasing behavior. It helps identify key customers and supports data-driven customer strategy decisions.
+
+## Key Insights:
+1. Customer-wise sales distribution
+2. Identification of top revenue-generating customers
+3. Analysis of customer contribution to total sales
+
+## Use Case: Customer analytics, segmentation, and retention planning.
+
+------------------------------------------------------------------------------------------------------------------
+
+## Tools & Skills Demonstrated
+
+1. Power BI & Tableau
+2. Data Visualization & Dashboard Design
+3. KPI Analysis
+4. Business Analytics & Insights
