@@ -13,37 +13,37 @@ The queries support data cleaning, transformation, and multi-level business anal
 The queries are structured progressively:
 
 Level 1 – Basic Exploration:
-Admission filtering
-Visit counts
-Department listing
-Date range analysis
+Admission filtering,
+Visit counts,
+Department listing,
+Date range analysis.
 
 Level 2 – Time-Based Analysis:
-Visits by year & month
-Busiest hour
-Weekday vs weekend comparison
+Visits by year & month,
+Busiest hour,
+Weekday vs weekend comparison.
 
 Level 3 – Department Insights:
-Admission rate by department
-Average wait time
-Satisfaction analysis
+Admission rate by department,
+Average wait time,
+Satisfaction analysis.
 
 Level 4 – Demographic Analysis:
-Visits by gender & age group
-Admission rate by race
-Satisfaction comparison
+Visits by gender & age group,
+Admission rate by race,
+Satisfaction comparison.
 
 Level 5 – Operational Insights:
-Wait time vs satisfaction relationship
-Outlier detection
-Hourly satisfaction analysis
+Wait time vs satisfaction relationship,
+Outlier detection,
+Hourly satisfaction analysis.
 
 Level 6 – Executive Summary Query:
-Total visits
-Total admissions
-Admission rate
-Average wait time
-Average satisfaction score
+Total visits,
+Total admissions,
+Admission rate,
+Average wait time,
+Average satisfaction score.
 
 ## Files Included:
 healthcare_queries.sql – All MySQL queries
