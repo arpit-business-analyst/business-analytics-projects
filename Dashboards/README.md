@@ -2,9 +2,9 @@
 This folder contains interactive Power BI dashboards developed as part of the Kaggle analytics projects. Each dashboard focuses on solving real-world business problems using data visualization, KPI tracking, and analytical insights.
 The dashboards demonstrate end-to-end analytics skills including data modeling, metric design, and business storytelling.
 
--##- Netflix Content Analysis Dashboard
+## Netflix Content Analysis Dashboard
 
-Tool: Power BI
+Tool: Power BI,
 Project Folder: Power-BI/Netflix_Analysis/
 
 ## Objective:
@@ -28,9 +28,9 @@ To analyze Netflix’s content library and uncover trends across genres, countri
 2. Growth patterns in streaming content
 3. Audience rating segmentation
 
--##- Healthcare Patient Flow & Admission Dashboard
+## Healthcare Patient Flow & Admission Dashboard
 
-Tool: Power BI
+Tool: Power BI,
 Project Folder: Power-BI/Healthcare_Analysis/
 
 ## Objective:
